@@ -6,7 +6,7 @@ const btn = document.querySelector('.switch-btn')
 const randomBtn = document.querySelector('.random-btn')
 let video = document.querySelector('.video-container')
 
-const videos = ['video1.mp4', 'video2.mp4', 'video3.mp4', 'video4.mp4', 'video5.mp4', 'video6.mp4'];
+const videos = ['video1.mp4', 'video2.mp4', 'video3.mp4', 'video4.mp4', 'video5.mp4', 'video6.mp4', 'video7.mp4'];
 
 btn.addEventListener('click', () => {
     if (!btn.classList.contains('slide')) {
