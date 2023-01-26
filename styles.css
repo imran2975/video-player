@@ -236,7 +236,7 @@ h1 {
 
 .switch-btn {
   position: absolute;
-  bottom: 7%;
+  bottom: 5%;
   left: 7%;
   width: 7rem;
   height: 2rem;
@@ -273,7 +273,7 @@ h1 {
 .random-btn{
   position: absolute;
   right: 7%;
-  bottom: 7%;
+  bottom: 5%;
   padding: 8px 20px;
   background-color: #49a6e9;
   border: none;
